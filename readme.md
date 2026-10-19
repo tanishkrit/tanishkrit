@@ -157,6 +157,7 @@ Currently, I'm focused on:
 
 ---
 -->
+<!--
 ## 📊 GitHub Activity
 
 <div align="center">
@@ -179,6 +180,7 @@ Currently, I'm focused on:
 </div>
 
 ---
+-->
 <!--
 ## 🧩 Current Grind
 
