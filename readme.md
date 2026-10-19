@@ -98,7 +98,7 @@ Currently, I'm focused on:
 </table>
 
 ---
-
+<!--
 ## 🚀 Things I'm Building
 
 ### ⚽ Spozo — Sport Venue Booking Platform
@@ -156,7 +156,7 @@ Currently, I'm focused on:
 - ⚡ Reduced manual triage time by **~30%**
 
 ---
-
+-->
 ## 📊 GitHub Activity
 
 <div align="center">
@@ -179,7 +179,7 @@ Currently, I'm focused on:
 </div>
 
 ---
-
+<!--
 ## 🧩 Current Grind
 
 ```text
@@ -204,7 +204,7 @@ Building Projects    ██████████████████  95%
 - 🚀 Interested in **SDE, AI/ML & Product Engineering** opportunities
 
 ---
-
+-->
 ## 🌐 Let's Connect
 
 <div align="center">
